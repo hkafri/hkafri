@@ -31,13 +31,7 @@ I bridge the gap between hardware architecture, digital signal processing, and a
 ![Max/MSP](https://img.shields.io/badge/Max/MSP-333333?style=for-the-badge)
 ![Ableton Live](https://img.shields.io/badge/Ableton_Live-000000?style=for-the-badge&logo=abletonlive&logoColor=white)
 ![Cubase](https://img.shields.io/badge/Cubase-FFFFFF?style=for-the-badge)
-
-### 📈 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
-</div>
+![Rekordbox](https://img.shields.io/badge/Rekordbox-E3182D?style=for-the-badge)
 
 ### 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-PROFILE-LINK)

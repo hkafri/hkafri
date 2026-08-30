@@ -8,12 +8,21 @@ I bridge the gap between hardware architecture, digital signal processing, and a
 ### 👩‍💻 About Me
 - 🔬 Starting my **PhD in Musical Mechatronics** this November at **SONICLAB**, Victoria University of Wellington.
 - 🎓 Completing my **Master's in Electrical Engineering** (specializing in Hardware) at Bar-Ilan University.
+- 🌍 Participated in the **ERASMUS+** exchange program at **Politecnico di Milano**, studying **Music Engineering**.
 - 💼 **Ex-Nvidia**: Previously worked as a Chip Design Verification Engineer, focusing on high-speed telecommunication protocols.
-- 📝 **First Author** on a published **IEEE paper**: *Physics-informed explainable neural networks for nearfield acoustic holography* (Erasmus+ research at Politecnico di Milano).
 - 🎖️ Previously served 4 years in the IDF Intelligence Corps, managing technical teams and instructing Sigint, Python, and cybersecurity.
 - 🎵 **Musician & Creator**: I play the flute, saxophone, and piano. I'm also a DJ!
 - 🎨 **Beyond the screen**: When I'm not coding or designing hardware, I paint in oil colors, sew, and sail the seas as a certified skipper ⛵.
+- 
+### 📚 Publications
 
+📝 **1. "A Visual Explanation Approach for Regression Neural Networks Applied to Nearfield Acoustic Holography"**  
+*IEEE (2023)*
+
+🧠 **First Author:** I led this publication addressing interpretability in deep learning for regression tasks, based on research conducted during my Erasmus+ exchange at Politecnico di Milano. 
+- We propose a Grad-CAM-inspired approach to interpret neural network decisions for regression models.
+- The method is applied to Kirchhoff-Helmholtz-based CNN (KHCNN) for Nearfield Acoustic Holography using vibrating plates and violin top plates.
+- Results reveal the most informative regions used by the network for accurate predictions, and the method is validated using NCC and NMSE metrics.
 ### 🛠️ Tech Stack & Skills
 
 **Languages & Scripts**

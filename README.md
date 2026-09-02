@@ -13,7 +13,7 @@ I bridge the gap between hardware architecture, digital signal processing, and a
 - 🎖️ Previously served 4 years in the IDF Intelligence Corps, managing technical teams and instructing Sigint, Python, and cybersecurity.
 - 🎵 **Musician & Creator**: I play the flute, saxophone, and piano. I'm also a DJ!
 - 🎨 **Beyond the screen**: When I'm not coding or designing hardware, I paint in oil colors, sew, and sail the seas as a certified skipper ⛵.
-- 
+  
 ### 📚 Publications
 
 📝 **1. "A Visual Explanation Approach for Regression Neural Networks Applied to Nearfield Acoustic Holography"**  
